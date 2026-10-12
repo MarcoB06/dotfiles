@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marco.beneddine@gmail.com
+	name = Marco Beneddine
